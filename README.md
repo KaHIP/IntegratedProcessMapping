@@ -1,5 +1,7 @@
 # Integrated Mapping
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a028fb9aed1944de84786d9a6db6106d)](https://app.codacy.com/gh/KaHIP/IntegratedMapping/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping?ref=badge_shield)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 Process mapping, a generalization of graph partitioning, involves distributing communicating processes across processing elements (PEs) in a high-performance system to minimize total communication cost, accounting for variations in communication patterns between different PE pairs.
@@ -83,4 +85,3 @@ Integrated Mapping is free software provided under the MIT License.
 
 
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping?ref=badge_large)
