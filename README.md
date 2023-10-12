@@ -1,5 +1,7 @@
 # Integrated Mapping
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fa3d2c2fff1b456bbc082cd8a5e80f24)](https://app.codacy.com/gh/KaHIP/IntegratedMapping?utm_source=github.com&utm_medium=referral&utm_content=KaHIP/IntegratedMapping&utm_campaign=Badge_Grade)
+
 Process mapping, a generalization of graph partitioning, involves distributing communicating processes across processing elements (PEs) in a high-performance system to minimize total communication cost, accounting for variations in communication patterns between different PE pairs.
 Integrated Mapping is an integrated, multilevel algorithm that solves the process mapping problem for hierarchical topologies.
 The algorithm is based on the multilevel paradigm, including several components such as coarsening-uncoarsening schemes, a multi-section approach that considers the system hierarchy to build an initial solution, advanced local refinement techniques, and tools for memory usage and performance tradeoffs.
