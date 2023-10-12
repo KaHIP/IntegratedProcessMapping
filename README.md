@@ -1,4 +1,6 @@
 # Integrated Mapping
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping?ref=badge_shield)
+
 
 Process mapping, a generalization of graph partitioning, involves distributing communicating processes across processing elements (PEs) in a high-performance system to minimize total communication cost, accounting for variations in communication patterns between different PE pairs.
 Integrated Mapping is an integrated, multilevel algorithm that solves the process mapping problem for hierarchical topologies.
@@ -79,3 +81,6 @@ For a description of the graph METIS format, please have a look at the [KaHiP ma
 
 Integrated Mapping is free software provided under the MIT License.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKaHIP%2FIntegratedMapping?ref=badge_large)
