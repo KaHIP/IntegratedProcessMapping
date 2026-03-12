@@ -10,7 +10,7 @@
 Process mapping, a generalization of graph partitioning, involves distributing communicating processes across processing elements (PEs) in a high-performance system to minimize total communication cost, accounting for variations in communication patterns between different PE pairs.
 Integrated Mapping is an integrated, multilevel algorithm that solves the process mapping problem for hierarchical topologies.
 The algorithm is based on the multilevel paradigm, including several components such as coarsening-uncoarsening schemes, a multi-section approach that considers the system hierarchy to build an initial solution, advanced local refinement techniques, and tools for memory usage and performance tradeoffs.
-The multiple versions of our algorithm outperform competitors in both solution quality and speed, thanks to the integrated multilevel approach and high-quality local search and initial mapping algorithms.
+The multiple versions of our algorithm outperform competitors in both solution quality and speed, thanks to the integrated multilevel approach and high-quality local search and initial mapping algorithms.  Part of the [KaHIP](https://github.com/KaHIP) organization. 
 
 
 This repository is associated with the following paper:
